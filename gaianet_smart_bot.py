@@ -63,5 +63,5 @@ def chat_loop():
 
         time.sleep(random.randint(15, 30))
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     chat_loop()
