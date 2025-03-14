@@ -6,7 +6,7 @@ import random
 API_KEY = input("Enter your Gaianet API Key: ").strip()
 
 # Gaianet API URL (update if needed)
-API_URL = "https://api.gaianet.com/chat"
+API_URL = "https://www.gaianet.ai/chat"
 
 # Random questions for the bot to ask
 QUESTIONS = [
